@@ -1,5 +1,5 @@
 {
-  "name": "MEGALODON-MD",
+  "name": "⍤⃝  ⃟BEST✨️||FO⃤R||💐|•EVER____❤️",
   "description": "Javascript WhatsApp bot made by ᴅʏʙʏ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/frns4k.jpg",
   "keywords": ["MEGALODON-MD"],
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "MEGALODON~MD~1VxkhaIS#NO77Zs3Mfogj6rIqKX8JQ8EyVNPyU5Vmdu98hd7yEgo"
     },  
     
     "STICKER_NAME": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
 
@@ -77,28 +77,29 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "*SEEN YOUR STATUS BY MEGALODON-MD 🥶*"
    
      }, 
     
     "OWNER_NAME": {
+
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
-}, 
+      "value": "𝐆𝐈𝐑𝐋⃤𝐆𝐊Reverie*"
+    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "50932818924"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "MEGALODON-MD"
+      "value": "> 🕯️🕊️D   A    R   K   S   E   I  D 🪫💔"
 
       }, 
 
@@ -112,20 +113,20 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
    "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "MENU_IMAGE_URL": {
@@ -143,19 +144,19 @@
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
